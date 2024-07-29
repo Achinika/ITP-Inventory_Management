@@ -16,6 +16,7 @@ The main problems identified in this section were-
 • Details being filled out manually and stored in files, which has caused loss of data.
 
 
+
 Through this Section Inventory Manager able to Manage Inventory Items through these functions:
 
 ➢ Add New Inventory Item
